@@ -1,6 +1,6 @@
 {
   "name": "@andrewosh/torrent-docker",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "MAD SCIENCE realtime boot of remote docker images using bittorrent",
   "main": "bin.js",
   "bin": {
